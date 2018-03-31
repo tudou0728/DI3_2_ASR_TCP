@@ -1,1 +1,2 @@
-ASR_TP_JAVA
+# DI3_2_ASR_TCP
+ASR_TP_JAVA-solo
